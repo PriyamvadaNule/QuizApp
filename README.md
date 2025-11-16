@@ -24,10 +24,12 @@ Perfect for coding assessments like **Cognizant**, TCS, Infosys, Wipro, etc., an
 
 ## 📂 Project Structure
 QuizApp.java
+
 ├── questions[] -> Stores all MCQs
 ├── options[][] -> Stores answer choices
 ├── answers[] -> Stores correct answers
 └── Loop + Score calculation logic
+
 ---
 
 
